@@ -1,0 +1,56 @@
+Welcome to hometown pizza!
+What is the name for this order: Base Camp Coding Academy
+
+Pizzas:
+Pepperoni Pizza ($8.00)
+    Pepperoni ($1.00)
+Cheese Pizza ($7.00)
+Hawaiian Pizza ($8.75)
+    Ham ($1.00)
+    Pineapple ($0.75)
+Sides:
+Side Breadsticks ($2.00)
+Side 2L Coca Cola ($1.50)
+
+What would you like?
+If you are done ordering, enter done
+If you want to cancel your order, enter quit
+Base Camp Coding Academy: pep
+Ok, 1 Pepperoni added to your order. Anything else?
+
+What would you like?
+If you are done ordering, enter done
+If you want to cancel your order, enter quit
+Base Camp Coding Academy: pep
+Ok, 1 Pepperoni added to your order. Anything else?
+
+What would you like?
+If you are done ordering, enter done
+If you want to cancel your order, enter quit
+Base Camp Coding Academy: cheese
+Ok, 1 Cheese added to your order. Anything else?
+
+What would you like?
+If you are done ordering, enter done
+If you want to cancel your order, enter quit
+Base Camp Coding Academy: breadsticks
+Ok, 1 Breadsticks added to your order. Anything else?
+
+What would you like?
+If you are done ordering, enter done
+If you want to cancel your order, enter quit
+Base Camp Coding Academy: done
+
+Thank you for your business!
+Here is your receipt:
+
+Customer: Base Camp Coding Academy
+Total: $25.00
+Items
+----------------
+Pepperoni Pizza ($8.00)
+    Pepperoni ($1.00)
+Pepperoni Pizza ($8.00)
+    Pepperoni ($1.00)
+Cheese Pizza ($7.00)
+Side Breadsticks ($2.00)

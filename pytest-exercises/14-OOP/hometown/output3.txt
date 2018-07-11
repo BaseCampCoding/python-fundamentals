@@ -1,0 +1,31 @@
+Welcome to hometown pizza!
+What is the name for this order: Customer #3
+
+Pizzas:
+Pepperoni Pizza ($8.00)
+    Pepperoni ($1.00)
+Cheese Pizza ($7.00)
+Hawaiian Pizza ($8.75)
+    Ham ($1.00)
+    Pineapple ($0.75)
+Sides:
+Side Breadsticks ($2.00)
+Side 2L Coca Cola ($1.50)
+
+What would you like?
+If you are done ordering, enter done
+If you want to cancel your order, enter quit
+Customer #3: cheese
+Ok, 1 Cheese added to your order. Anything else?
+
+What would you like?
+If you are done ordering, enter done
+If you want to cancel your order, enter quit
+Customer #3: hawaii
+Ok, 1 Hawaiian added to your order. Anything else?
+
+What would you like?
+If you are done ordering, enter done
+If you want to cancel your order, enter quit
+Customer #3: quit
+Please come back some time!

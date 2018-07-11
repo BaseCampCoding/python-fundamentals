@@ -1,0 +1,41 @@
+Welcome to hometown pizza!
+What is the name for this order: Nate
+
+Pizzas:
+Pepperoni Pizza ($8.00)
+    Pepperoni ($1.00)
+Cheese Pizza ($7.00)
+Hawaiian Pizza ($8.75)
+    Ham ($1.00)
+    Pineapple ($0.75)
+Sides:
+Side Breadsticks ($2.00)
+Side 2L Coca Cola ($1.50)
+
+What would you like?
+If you are done ordering, enter done
+If you want to cancel your order, enter quit
+Nate: Pepperoni Pizza
+Ok, 1 Pepperoni added to your order. Anything else?
+
+What would you like?
+If you are done ordering, enter done
+If you want to cancel your order, enter quit
+Nate: 2L Coca Cola
+Ok, 1 2L Coca Cola added to your order. Anything else?
+
+What would you like?
+If you are done ordering, enter done
+If you want to cancel your order, enter quit
+Nate: done
+
+Thank you for your business!
+Here is your receipt:
+
+Customer: Nate
+Total: $9.50
+Items
+----------------
+Pepperoni Pizza ($8.00)
+    Pepperoni ($1.00)
+Side 2L Coca Cola ($1.50)
