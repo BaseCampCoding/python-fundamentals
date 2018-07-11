@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block body %}
+{% if movies %}
+    <table class="u-full-width">
+        <thead>
+            <tr>
+                <th> Title </th>
+                <th> Director </th>
+                <th> Genre </th>
+                <th> Cast </th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for movie in movies %}
+        <tr>
+            <td> {{ movie.title }} </td>
+            <td> {{ movie.director }} </td>
+            <td> {{ movie.genre }} </td>
+            <td>
+                <ul>
+                {% for member in movie.cast %}
+                    <li> {{ member }} </li>
+                {% endfor %}
+                </ul>
+            </td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+{% else %}
+    No Movies Found!
+{% endif %}
+{% endblock %}
