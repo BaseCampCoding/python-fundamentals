@@ -1,0 +1,96 @@
+Today we are going to take a break from our larger library project to get some practice with smaller programs. Here is a list of smaller programs for you to build throughout the day. Once you get finished with one, start building the next one!
+
+# Hey You
+
+This one is pretty simple. It just asks the user for their name, and then says Hello, <your name>.
+
+Examples:
+
+$ python3 hey_you.py
+Hey, what is your name? Nate
+Hello, Nate.
+
+$ python3 hey_you.py
+Hey, what is your name? Sean
+Hello, Sean.
+
+# What do you do
+
+Write a program that asks a user for a person's name, and then tells the user what that person does at Base Camp Coding Academy. Look at https://basecampcodingacademy.org/contact for information.
+
+Examples:
+
+$ python3 what_do_you_do.py
+Name: Nate Clark
+Technical Director
+
+$ python3 what_do_you_do.py
+Name: Sean Anthony
+Director
+
+$ python3 what_do_you_do.py
+Name: Kagan Coughlin
+Co-Founder
+
+$ python3 what_do_you_do.py
+Name: Carla Lewis
+Trustee
+
+$ python3 what_do_you_do.py
+Name: Martin Guzman
+Graduated 2017
+
+$ python3 what_do_you_do.py
+Name: Irma Patton
+Current Student
+
+
+# Grader
+
+This program asks the user for a series of grades. Once the user enters all their grades, the program shows the user their final grade.
+
+Examples:
+$ python3 grader.py
+Enter your grades. Enter "grade" when you are finished.
+Grade #1: 100
+Grade #2: 97
+Grade #3: 92
+Grade #4: 82
+Grade #5: 93
+Grade #6: grade
+You averaged 92.8 and received an A.
+
+$ python3 grader.py
+Enter your grades. Enter "grade" when you are finished.
+Grade #1: 86
+Grade #2: 92
+Grade #3: 80
+Grade #4: finish
+You averaged 86.0 and recieved an B.
+
+
+# Deaf Grandma
+
+Write a Deaf Grandma program. Whatever you say to grandma (whatever you type in), she should respond with HUH?!  SPEAK UP, SONNY!, unless you shout it (type in all capitals). If you shout, she can hear you (or at least she thinks so) and yells back, NO, NOT SINCE 1938! To make your program really believable, have grandma shout a different year each time; maybe any year at random between 1930 and 1950. You can't stop talking to grandma until you shout BYE.
+
+Example:
+
+$ python3 deaf_grandma.py
+You: Hey grandma
+Grandma: HUH?! SPEAK UP, SONNY!
+You: HEY GRANDMA
+GRANDMA: NO, NOT SINCE 1945!
+YOU: BYE
+Grandma: BYE SONNY
+
+# Card game: Two Player War
+
+https://www.pagat.com/war/war.html#two
+
+# Chore assigner
+
+Write a program that randomly assigns chores to each of the students in this year's class.
+
+# Card game: 1 player blackjack
+
+https://en.wikipedia.org/wiki/Blackjack
