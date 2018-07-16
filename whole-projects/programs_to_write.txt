@@ -1,19 +1,5 @@
 Today we are going to take a break from our larger library project to get some practice with smaller programs. Here is a list of smaller programs for you to build throughout the day. Once you get finished with one, start building the next one!
 
-# Hey You
-
-This one is pretty simple. It just asks the user for their name, and then says Hello, <your name>.
-
-Examples:
-
-$ python3 hey_you.py
-Hey, what is your name? Nate
-Hello, Nate.
-
-$ python3 hey_you.py
-Hey, what is your name? Sean
-Hello, Sean.
-
 # What do you do
 
 Write a program that asks a user for a person's name, and then tells the user what that person does at Base Camp Coding Academy. Look at https://basecampcodingacademy.org/contact for information.
