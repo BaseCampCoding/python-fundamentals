@@ -1,5 +1,6 @@
 from lists import *
 
+
 def test_first_three():
     assert first_three([1, 2, 3]) == [1, 2, 3]
     assert first_three([1, 2, 3, 4]) == [1, 2, 3]
