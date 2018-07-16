@@ -1,29 +1,5 @@
 Today we are going to take a break from our larger library project to get some practice with smaller programs. Here is a list of smaller programs for you to build throughout the day. Once you get finished with one, start building the next one!
 
-# Grader
-
-This program asks the user for a series of grades. Once the user enters all their grades, the program shows the user their final grade.
-
-Examples:
-$ python3 grader.py
-Enter your grades. Enter "grade" when you are finished.
-Grade #1: 100
-Grade #2: 97
-Grade #3: 92
-Grade #4: 82
-Grade #5: 93
-Grade #6: grade
-You averaged 92.8 and received an A.
-
-$ python3 grader.py
-Enter your grades. Enter "grade" when you are finished.
-Grade #1: 86
-Grade #2: 92
-Grade #3: 80
-Grade #4: finish
-You averaged 86.0 and recieved an B.
-
-
 # Deaf Grandma
 
 Write a Deaf Grandma program. Whatever you say to grandma (whatever you type in), she should respond with HUH?!  SPEAK UP, SONNY!, unless you shout it (type in all capitals). If you shout, she can hear you (or at least she thinks so) and yells back, NO, NOT SINCE 1938! To make your program really believable, have grandma shout a different year each time; maybe any year at random between 1930 and 1950. You can't stop talking to grandma until you shout BYE.
