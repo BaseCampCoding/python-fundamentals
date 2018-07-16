@@ -1,9 +1,5 @@
 Today we are going to take a break from our larger library project to get some practice with smaller programs. Here is a list of smaller programs for you to build throughout the day. Once you get finished with one, start building the next one!
 
-# Chore assigner
-
-Write a program that randomly assigns chores to each of the students in this year's class.
-
 # Card game: 1 player blackjack
 
 https://en.wikipedia.org/wiki/Blackjack
