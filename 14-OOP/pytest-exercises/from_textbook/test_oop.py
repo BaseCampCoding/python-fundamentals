@@ -15,7 +15,7 @@ class TestCountry:
 
     @pytest.mark.skip
     def test_is_larger_works(self):
-        a = core.Country('a', 3, 2)
+        a = core.Country('a', 3, 4)
         b = core.Country('b', 1, 3)
         assert a.is_larger(b) == True
 
